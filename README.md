@@ -1,4 +1,4 @@
-##Dear Manager,
+## Dear Manager,
 
 I am writing today to express my interest in the Junior Front-End Web Developer opportunity with Andela that I read about on twitter.com on July 1st, 2019.
 
